@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [nano-invoice](https://github.com/dhyabi2/nano-invoice) | Bind a Nano (XNO) payment to the order it pays for. Idempotent invoices, unique tagged amounts per order, ledger-verified receipts. Non-custodial Python, stdlib only. |
 
 ---
 
